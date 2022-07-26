@@ -1,6 +1,6 @@
 <?php 
-define("LOGIN", "6i7griyhtzde6qjg3ce7b1qy42a32bv03l3gnye1x70s3.apps.vivapayments.com");
-define("PASSWORD" , "iYMWP5ce97xZh26y88Q027Tjds5nGH");
+define("LOGIN", "7i7griyhtzde6qjg3ce7b1qy42a32bv03l3gnye1x70s3.apps.vivapayments.com");
+define("PASSWORD" , "IYMWP5ce97xZh26y88Q027Tjds5nGH");
 //prod:
 ///define("BASE_URL_API" ,"https://api.vivapayments.com/");
 
